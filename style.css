@@ -1,0 +1,109 @@
+.navbar {
+    margin-bottom:0;
+  }
+
+
+.jumbotron 
+{
+    margin-bottom:0;
+    text-align: center;
+    background-image: url(images/header.jpg);
+    background-repeat:no-repeat;
+    height:80vh;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    
+    
+}
+
+.jumbotron h1
+{
+    color: #e67622;
+}
+
+.dropdown-menu
+{
+    background-color: black;
+    border-color: black;
+    background
+}
+
+.dropdown-menu a:hover
+{
+    color: red;
+    background-color: black;
+    border-bottom: 1px solid;
+    padding: 5px 0;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-in;
+}
+
+.trend
+{
+    margin-bottom: 0;
+    text-align: center;
+     padding-top: 20px;
+     background-image: url(images/trend.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+}
+
+
+.testimonials
+{
+    margin: 80px;
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(images/testi.jpg);
+    padding-top: 50px;
+    padding-bottom: 60px;
+    color: white;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    
+}
+
+.testimonials cite img
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.testimonials p
+{
+    color: white;
+    line-height: 25px;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+
+.btn-block
+{
+    background-color: #e67e22;
+    color: white;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.input_form
+{
+    margin-top: 40px;
+    padding-left: 40px;
+}
+.form
+{
+    margin-top: 40px;
+}
